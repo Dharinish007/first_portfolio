@@ -1,16 +1,15 @@
 @import "tailwindcss";
 
-*{
-  margin : 0;
-  padding: 0;
-  box-sizing: border-box;
+html {
+  scroll-behavior: smooth;
 }
 
-body{
+body {
   min-height: 100vh;
+  @apply bg-slate-50 text-slate-800 font-sans antialiased selection:bg-indigo-200 selection:text-indigo-900;
 }
 
-.container{
-  width:min(1200px,90%);
-  margin:auto;
+.container {
+  width: min(1200px, 90%);
+  margin: auto;
 }

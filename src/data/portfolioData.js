@@ -104,3 +104,10 @@ export const projects = [
     live: "#",
   },
 ];
+
+export const contactInfo = {
+  email: "dharinisharulselvam@gmail.com",
+  github: "https://github.com/Dharinish007",
+  linkedin: "www.linkedin.com/in/dharinish776",
+  location: "Tamil Nadu, India",
+};
