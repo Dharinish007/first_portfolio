@@ -1,5 +1,5 @@
 import { heroData,heroStats } from "../../data/portfolioData";
-import profile from "../../assets/images/my_picture.jpeg";
+import profile from "../../assets/images/Myimage.jpeg";
 import resume from "../../assets/resume/Dharinish_Resume.pdf";
 function Hero(){
     return(
