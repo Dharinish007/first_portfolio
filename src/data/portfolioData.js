@@ -8,6 +8,22 @@ export const personalInfo = {
   linkedin: "www.linkedin.com/in/dharinish776",
 };
 
+export const heroData = {
+  greeting: "Hi, I'm",
+  name: "Dharinish",
+  role: "MERN Developer | Problem Solver",
+  description:
+    "Building scalable web applications and consistently improving through DSA, leadership, and real-world projects.",
+};
+
+export const heroStats = [
+  "350+ LeetCode",
+  "NEP Ambassador",
+  "StudyTrack Builder",
+  "Google Student Ambassdor",
+  "Microsoft Student Ambassdor"
+];
+
 export const skills = [
   "Java",
   "JavaScript",
